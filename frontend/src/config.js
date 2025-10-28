@@ -1,4 +1,4 @@
 export const APP_CONFIG = {
-  backendUrl: "https://owl-cafe-live.vercel.apps/",
-  //   backendUrl: "http://localhost:5002/",
+  backendUrl: "https://owl-cafe-live.vercel.app/",
+  // backendUrl: "http://localhost:5002/",
 };
